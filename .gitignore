@@ -1,0 +1,13 @@
+# Built binary
+/edgerag
+
+# Config and index data
+.edgerag.yaml
+*.gob
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
